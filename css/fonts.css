@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "Magra";
+  src: url("/fonts/magra/Magra-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Red Hat Text";
+  src: url("/fonts/red_hat_text/static/RedHatText-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Aleo";
+  src: url("/fonts/aleo/Aleo-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Aleo";
+  src: url("/fonts/aleo/Aleo-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Aleo";
+  src: url("/fonts/aleo/Aleo-Italic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Aleo";
+  src: url("/fonts/aleo/Aleo-Italic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: 400;
+}
+
+
+
